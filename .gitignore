@@ -8,3 +8,9 @@
 
 # generated files
 /Game_Managers/GameManager.py
+
+# pycache
+/Game_Managers/__pycache__
+/Game_Managers/Games/__pycache__
+
+
