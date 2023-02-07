@@ -1,0 +1,7 @@
+# User Specific Config files
+/Server_settings/config.bat
+/Server_settings/config.sh
+/Server_settings/config.py
+
+# Log files
+/Logs
