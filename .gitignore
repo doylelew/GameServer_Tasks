@@ -7,4 +7,4 @@
 /Logs
 
 # generated files
-/Games/GameManager.py
+/Game_Managers/GameManager.py
