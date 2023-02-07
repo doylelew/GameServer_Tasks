@@ -5,3 +5,6 @@
 
 # Log files
 /Logs
+
+# generated files
+/Games/GameManager.py
