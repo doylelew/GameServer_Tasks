@@ -13,4 +13,6 @@
 /Game_Managers/__pycache__
 /Game_Managers/Games/__pycache__
 
+# Test files
+/Tests
 
